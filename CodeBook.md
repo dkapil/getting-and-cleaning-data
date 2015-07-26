@@ -66,6 +66,7 @@
     - **TimeBodyGyroJerkMagMean** 
 - Body Gravitation Jerk Eucleadian Norm Standard Deviation
     - **TimeBodyGyroJerkMagStdDev**
+
 ## Frequency Domain Measurements
 - Body Acceleration Frequency Mean in X,Y,Z direction respectively
     - **FrequencyBodyAccMeanX**
