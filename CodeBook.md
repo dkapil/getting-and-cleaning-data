@@ -92,6 +92,7 @@
     - **FrequencyBodyGyroStdDevX**
     - **FrequencyBodyGyroStdDevY** 
     - **FrequencyBodyGyroStdDevZ** 
+
 ## Averaged Meausurements in a Signal Window Sample
 - Average Body Acceleration Mean
     -  **angle(tBodyAccMean,gravity)**
